@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 👨‍💻 About:
 Hello, I’m Zakaria Young. I studied at Penn State University and currently work as a software engineer. In my free time, I enjoy working on my personal project, [ApplicationIO](https://applicationio.com)
 . I’m passionate about learning new technologies, and ApplicationIO has been a hands-on way for me to experiment, grow, and continually expand my skill set.
 
